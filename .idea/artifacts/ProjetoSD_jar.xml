@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetoSD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetoSD_jar</output-path>
+    <root id="archive" name="ProjetoSD.jar">
+      <element id="module-output" name="ProjetoSD" />
+      <element id="library" level="project" name="amqp-client-5.5.1" />
+      <element id="library" level="project" name="slf4j-api-1.7.25" />
+      <element id="library" level="project" name="slf4j-simple-1.7.25" />
+    </root>
+  </artifact>
+</component>
