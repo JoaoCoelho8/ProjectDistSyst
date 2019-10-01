@@ -1,2 +1,2 @@
-# ProjectSistDist
+# ProjectDistSyst
 "Distributed Systems" course project
