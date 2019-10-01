@@ -1,2 +1,2 @@
 # ProjectSistDist
-Projeto da disciplina "Sistemas Distribuídos"
+Distributed Systems course project
